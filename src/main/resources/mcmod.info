@@ -15,6 +15,7 @@
     "FoudroyantFactotum",
     "Hofius",
     "Othlon"
+    "Meepy"
   ],
   "credits": "Thanks to pahimar for his excellent Let's Mod Reboot series and bspkrs for his super build scripts",
   "logoFile": "assets/steamnsteel/Logo.png",
@@ -22,6 +23,7 @@
   ],
   "parent":"",
   "dependencies": [
-  ]
+    "MCGUI",
+  ],
 }
 ]
